@@ -107,7 +107,7 @@ http://localhost:3000
 ```
 ---
 
-🚀 Usage Guide
+## 🚀 Usage Guide
 1. Register as a job seeker or employer
 2. Browse jobs with filters by industry, location, or type
 3. Apply to jobs or post new openings
