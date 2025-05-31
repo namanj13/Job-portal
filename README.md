@@ -54,3 +54,87 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone https://github.com/your-username/job-portal.git
+
+📂 Navigate into the Project Directory
+cd job-portal
+🛠 Backend Setup
+Go into the backend folder:
+
+bash
+Copy
+Edit
+cd backend
+Install backend dependencies:
+
+bash
+Copy
+Edit
+npm install
+Create a .env file in the backend directory and add:
+
+env
+Copy
+Edit
+MONGO_URI=your_mongodb_connection_url
+JWT_SECRET=your_jwt_secret_key
+PORT=5000
+Start the backend server:
+
+bash
+Copy
+Edit
+npm start
+🎨 Frontend Setup
+Open a new terminal and go to the frontend directory:
+
+bash
+Copy
+Edit
+cd frontend
+Install frontend dependencies:
+
+bash
+Copy
+Edit
+npm install
+Start the frontend development server:
+
+bash
+Copy
+Edit
+npm start
+🌐 Access the Application
+Once both servers are running, open your browser and go to:
+
+arduino
+Copy
+Edit
+http://localhost:3000
+🚀 Usage Guide
+Register as a job seeker or employer
+
+Browse jobs with filters by industry, location, or type
+
+Apply to jobs or post new openings
+
+Employers can manage applications via their dashboard
+
+🤝 Contributions
+Have suggestions or want to improve this project?
+You're welcome to:
+
+Fork the repo
+
+Open issues
+
+Submit pull requests
+
+Collaboration is highly encouraged!
+
+📬 Contact Information
+GitHub: https://github.com/namanj13
+
+Email: namanju931@gmail.com
+
+Thanks for checking out the Job Portal!
+Let’s build something great together. 🚀
