@@ -105,6 +105,7 @@ Once both servers are running, open your browser and go to:
 ```arduino
 http://localhost:3000
 ```
+---
 
 🚀 Usage Guide
 1. Register as a job seeker or employer
@@ -112,26 +113,33 @@ http://localhost:3000
 3. Apply to jobs or post new openings
 4. Employers can manage applications via their dashboard
 
-## 🛠️ How It Works
+---
 
-**Client-Side (Frontend):** Developed with **React.js**, the frontend delivers a smooth, real-time interface for users to explore jobs, manage profiles, and submit applications.
-**Server-Side (Backend):** The backend is built using **Node.js** and **Express.js**, which handles API routing, user sessions, job CRUD operations, and form submissions.
-**Data Storage (Database):** All user details, job postings, and application data are stored securely in a **MongoDB** database, with **Mongoose** used for object modeling and queries.
+##  🧩 How It Works
+1. Frontend: Crafted using React.js, the frontend delivers a responsive and seamless browsing experience for users.
+2. Backend: The server-side is handled by Node.js and Express.js, taking care of all application logic, routing, and user operations.
+3. Database: MongoDB is used to securely store job listings, user accounts, and submitted applications.
 
+---
 
-🤝 Contributions
-Have suggestions or want to improve this project?
-You're welcome to:
-     Fork the repo
-     Open issues
-     Submit pull requests
+##  🤝 Contributing
 
-Collaboration is highly encouraged!
+We welcome contributions from the community! If you'd like to help improve this project:
+🔧 Fork the repository to start working on your changes
+🐛 Report bugs or suggest features by opening issues
+📥 Submit a pull request once your code is ready
 
-📬 Contact Information
+Every contribution — big or small — helps make this project better. Thank you for your support!
+
+---
+
+## 📬 Contact Information
+
 GitHub: https://github.com/namanj13
 
 Email: namanju931@gmail.com
+
+---
 
 Thanks for checking out the Job Portal!
 Let’s build something great together. 🚀
