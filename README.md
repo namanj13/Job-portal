@@ -70,13 +70,10 @@ cd backend
 ```bash
 npm install
 ```
-3. Create a .env file in the backend directory and add:
+3. Set up environment variables:
 
-```env
-MONGO_URI=your_mongodb_connection_url
-JWT_SECRET=your_jwt_secret_key
-PORT=5000
-```
+In the `backend` directory, create a `.env` file and add necessary environment variables such as database connection string, JWT secret, etc.
+
 4. Start the backend server:
 
 ``` bash
@@ -110,23 +107,24 @@ http://localhost:3000
 ```
 
 🚀 Usage Guide
-Register as a job seeker or employer
+1. Register as a job seeker or employer
+2. Browse jobs with filters by industry, location, or type
+3. Apply to jobs or post new openings
+4. Employers can manage applications via their dashboard
 
-Browse jobs with filters by industry, location, or type
+## 🛠️ How It Works
 
-Apply to jobs or post new openings
+**Client-Side (Frontend):** Developed with **React.js**, the frontend delivers a smooth, real-time interface for users to explore jobs, manage profiles, and submit applications.
+**Server-Side (Backend):** The backend is built using **Node.js** and **Express.js**, which handles API routing, user sessions, job CRUD operations, and form submissions.
+**Data Storage (Database):** All user details, job postings, and application data are stored securely in a **MongoDB** database, with **Mongoose** used for object modeling and queries.
 
-Employers can manage applications via their dashboard
 
 🤝 Contributions
 Have suggestions or want to improve this project?
 You're welcome to:
-
-Fork the repo
-
-Open issues
-
-Submit pull requests
+     Fork the repo
+     Open issues
+     Submit pull requests
 
 Collaboration is highly encouraged!
 
