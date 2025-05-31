@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5ebe2c45-6ca3-40d1-8aec-a52316f09906)# 💼 Job Portal
+# 💼 Job Portal
 
 Welcome to the **Job Portal** project! This web platform connects job seekers with employers, offering a smooth experience for browsing job listings, applying to positions, and managing both candidate and employer profiles.
 
